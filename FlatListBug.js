@@ -1,0 +1,1 @@
+This bug occurs when using the `FlatList` component in React Native with a large dataset.  The issue is that the component renders all items at once, causing performance issues and potentially crashing the app.  The problem is exacerbated by complex components within each list item.
