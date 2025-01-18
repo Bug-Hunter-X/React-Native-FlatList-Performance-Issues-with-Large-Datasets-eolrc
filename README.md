@@ -1,0 +1,3 @@
+# React Native FlatList Performance Optimization
+
+This repository demonstrates a common performance issue in React Native's `FlatList` component when handling large datasets and provides a solution for improving performance.  The original code renders all items at once, leading to slow rendering and potential crashes.  The solution implements pagination and optimization techniques to enhance efficiency.
